@@ -1,0 +1,6 @@
+path: /content/gdrive/My Drive/jason/pitting/data
+train: images/train 
+val: images/validation
+
+nc: 1
+names: ['pitting']
